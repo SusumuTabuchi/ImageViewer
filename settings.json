@@ -4,6 +4,7 @@
         "version": "1.0",
         "width": "1000",
         "height": "600",
-        "ArchiveDirectory": "C:\/Users\/swk22\/OneDrive\/デスクトップ\/workspace\/開発\/Download_urasunday\/archive"
+        "ArchiveDirectory": "C:\/Users\/swk22\/OneDrive\/デスクトップ\/workspace\/開発\/Download_urasunday\/archive",
+        "settingAreaWidth": 200
     }
 }
